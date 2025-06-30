@@ -9,7 +9,7 @@ Team Member: Y Mary Mona Reddy
 Team Member: K Mounika
 
 
-🔗 GitHub Repository: 👉 https://github.com/lavanya3307/Book-a-Doctor
+🔗 GitHub Repository: 👉 https://github.com/nandyalameghasuvarchala/Booking-health-appointment
 
 🌐 Live Application Link: 👉 https://book-a-doctor-10.onrender.com
 
