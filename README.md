@@ -2,15 +2,12 @@
 
 👥 Team Members:
 
-Team Leader: Dongala Lavanya
+Team Leader: N Megha Suvarchala 
 
-Team Member: Gowla Afiya
+Team Member: Y Mary Mona Reddy
 
-Team Member: Kyashu Bhavya
+Team Member: K Mounika
 
-Team Member: Thabsum
-
-Team Member: N Jahnavi
 
 🔗 GitHub Repository: 👉 https://github.com/lavanya3307/Book-a-Doctor
 
