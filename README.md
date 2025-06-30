@@ -13,7 +13,7 @@ Team Member: K Mounika
 
 🌐 Live Application Link: 👉 https://book-a-doctor-10.onrender.com
 
-🎥 Demo Video: 👉 https://drive.google.com/file/d/1xHwN182SFljQmkkvGjXx7IoB1EFzcMvC/view?usp=drive_link
+🎥 Demo Video: 👉 https://drive.google.com/drive/folders/1pteT8STdObONWwELNDHRK9biItLuiJ-1
 
 📝 Project Description: DocSpot is a modern web-based appointment booking platform developed to bridge the gap between patients and healthcare providers. The application supports patients, doctors, and administrators with a smooth interface for scheduling, managing, and tracking appointments securely and efficiently.
 
